@@ -1,0 +1,111 @@
+head, body{
+    font-family: sans-serif;
+}
+
+.text_p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #1f3f68;
+}
+
+.h1{
+    font-size: 64;
+    color: #1f3f68;
+}
+
+.h2{
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.h3{
+    font-size: 36px;
+    text-align: center;
+}
+
+.h4{
+    font-size: 20px;
+    line-height: 30px;
+    color: #1f3f68;
+}
+
+.fields{
+    border: 1px solid #356ead;
+    box-sizing:border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.button{
+    background: #5a98d0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.menu{
+    font-weight: 800;
+}
+
+.article{
+    font-style: italic;
+}
+
+.area{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.header{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.center_articles{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.small_article{
+    font-size: 18px;
+}
+
+.project_articles{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.footer{
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
+
+.footer_articles{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.hr{
+    background-color:aqua;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.contacts{
+    font-weight: 700;
+    font-style: italic;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.rihgts{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
